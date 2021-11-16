@@ -1,0 +1,2 @@
+#repair all databases
+mysqlcheck -uroot -p --repair --all-databases
